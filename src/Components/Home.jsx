@@ -22,7 +22,8 @@ import PropTypes from "prop-types";
  */
 import image from "../images/Garden-of-the-Gods.jpg";
 
-const imageAltText = "Professional photo of the Garden of the Gods with Cheyenne Mountain in the background, both located in Colorado Springs, Colorado.";
+const imageAltText =
+  "Professional photo of the Garden of the Gods with Cheyenne Mountain in the background, both located in Colorado Springs, Colorado.";
 
 const Home = ({ name, title }) => {
   return (
