@@ -27183,18 +27183,18 @@ const imageAltText = "gold and white background";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Program Management",
+    "Team Building",
+    "Cross-Functional Teams",
+    "Cloud Development",
+    "Web Design",
+    "Artificial Intelligence", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "As a Microsoft Software and Systems Academy student specializing in Cloud Development and Server Administration, my expertise is leading cross-functional teams in creating robust tech solutions for complex world problems.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
